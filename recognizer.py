@@ -49,7 +49,7 @@ test_labels = mnist.test_labels()
 # print(test_labels.shape)
 # print(train_labels[:,0])
 
-network_dimension = [train_images.shape[0],100,10]
+network_dimension = [train_images.shape[0],300,10]
 
 nn = MultilayerNeuralNetwork(layers_dims=network_dimension,
 							layer_activation_func=["tanh","sigmoid"])

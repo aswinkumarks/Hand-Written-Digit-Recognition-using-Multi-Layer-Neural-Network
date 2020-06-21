@@ -5,7 +5,7 @@ Hand Written Digit Recognition using Multi-Layer Neural Network
 Introduction
 ------------
 
-Hand written digit recognition using multi-layer neural network build using only python's numpy library. The included pre-trained model achieved an accuracy of 91.79 % on MNIST dataset.
+Hand written digit recognition using multi-layer neural network build using only python's numpy library. The included pre-trained model achieved an accuracy of 95.54 % on MNIST dataset.
 
 ## Requirements 
 
